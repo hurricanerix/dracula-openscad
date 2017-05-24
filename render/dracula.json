@@ -1,0 +1,18 @@
+{
+    "name" : "Dracula",
+    "index" : 1100,
+    "show-in-gui" : true,
+
+    "colors" : {
+        "background" :         "#282A36",
+        "opencsg-face-front" : "#F8F8F2",
+        "opencsg-face-back" :  "#F1FA8C",
+        "cgal-face-front" :    "#F8F8F2",
+        "cgal-face-back" :     "#F1FA8C",
+        "cgal-face-2d" :       "#50FA7B",
+        "cgal-edge-front" :    "#FF5555",
+        "cgal-edge-back" :     "#FF5555",
+        "cgal-edge-2d" :       "#FF5555",
+        "crosshair" :          "#FF79C6"
+    }
+}

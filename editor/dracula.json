@@ -1,0 +1,36 @@
+{
+    "name" : "Dracula",
+    "index" : 1100,
+    "paper" : "#282A36",
+    "text" : "#F8F8F2",
+    "caret" : {
+        "width" : 2,
+        "foreground" : "#F8F8F2",
+        "line-background" : "#44475A75"
+    },
+    "colors" : {
+        "keyword1" : "#FF92D0",
+        "keyword2" : "#F8F8F2",
+        "keyword3" : "#9AEDFE",
+        "comment" : "#6272A4",
+        "commentline" : "#6272A4",
+        "commentdoc" : "#6272A4",
+        "commentdockeyword" : "#6272A4",
+        "number" : "#BD93F9",
+        "string" : "#F1FA8C",
+        "operator" : "#FF79C6",
+        "whitespace-foreground" : "#e0e0e0",
+        "selection-foreground" : "#F8F8F2",
+        "selection-background" : "#44475A",
+        "margin-background" : "#282A36",
+        "margin-foreground" : "#6272A4",
+        "matched-brace-background" : "#44475A75",
+        "matched-brace-foreground" : "#50FA7B",
+        "unmatched-brace-background" : "#0000ff",
+        "unmatched-brace-foreground" : "#F8F8F2",
+        "error-marker" : "#FF92D0",
+        "error-indicator" : "#60ff0000",
+        "error-indicator-outline" : "#ff000000",
+        "edge" : "#44475A75"
+    }
+}
